@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab 2 - Datalog Parser.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  Lab 2 - Datalog Parser.vcxproj -> C:\Users\chant\OneDrive\Documents\Visual Studio 2015\Projects\CS 236 Projects\Lab 3 - Relational Database\Lab 3 - Relational Database\Debug\Lab 3 - Relational Database.exe
+  Lab 2 - Datalog Parser.vcxproj -> C:\Users\chant\OneDrive\Documents\Visual Studio 2015\Projects\CS 236 Projects\Lab 3 - Relational Database\Lab 3 - Relational Database\Debug\Lab 3 - Relational Database.pdb (Partial PDB)
